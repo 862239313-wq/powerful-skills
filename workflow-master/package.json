@@ -1,0 +1,22 @@
+{
+  "name": "workflow-master",
+  "version": "2.0.0",
+  "description": "创建和管理自动化工作流，支持定时执行和条件分支",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "可视化流程设计",
+    "定时执行任务",
+    "条件分支逻辑",
+    "Webhook集成",
+    "执行日志记录"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

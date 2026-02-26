@@ -1,0 +1,22 @@
+{
+  "name": "db-designer",
+  "version": "2.0.0",
+  "description": "智能数据库设计和优化工具，支持ER图生成和表结构设计",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "需求分析转ER图",
+    "表结构设计",
+    "索引优化建议",
+    "迁移脚本生成",
+    "关系规范化检查"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

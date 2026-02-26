@@ -1,0 +1,22 @@
+{
+  "name": "sql-builder",
+  "version": "2.0.0",
+  "description": "通过自然语言描述自动生成SQL查询语句，支持多种数据库",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "自然语言转SQL",
+    "支持MySQL/PostgreSQL/SQLite",
+    "SQL优化建议",
+    "查询解释",
+    "表结构分析"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

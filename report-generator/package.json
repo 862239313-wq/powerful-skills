@@ -1,0 +1,22 @@
+{
+  "name": "report-generator",
+  "version": "2.0.0",
+  "description": "自动生成各类数据分析报告，支持多种格式输出",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "模板选择",
+    "自动填充数据",
+    "图表嵌入",
+    "多格式输出(PDF/Word/HTML)",
+    "定时发送报告"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

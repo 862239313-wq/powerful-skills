@@ -1,0 +1,22 @@
+{
+  "name": "office-integrator",
+  "version": "2.0.0",
+  "description": "连接各种办公软件实现自动化，包括Excel、邮件、文件管理等",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "Excel自动化操作",
+    "邮件自动收发",
+    "文件自动整理",
+    "日程同步管理",
+    "报表自动生成"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

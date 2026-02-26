@@ -1,0 +1,22 @@
+{
+  "name": "data-analyst",
+  "version": "2.0.0",
+  "description": "智能数据分析工具，支持数据清洗、可视化和趋势分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "数据清洗和预处理",
+    "自动生成可视化图表",
+    "趋势和模式分析",
+    "异常检测",
+    "数据报告生成"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "excel-pro",
+  "version": "2.0.0",
+  "description": "强大的Excel数据处理和分析能力，支持公式、宏和数据透视表",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "智能公式生成",
+    "宏脚本自动化",
+    "数据透视表创建",
+    "多文件合并",
+    "条件格式应用"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

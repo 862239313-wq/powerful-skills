@@ -1,0 +1,22 @@
+{
+  "name": "pdf-automator",
+  "version": "2.0.0",
+  "description": "专业的PDF文件处理工具，支持拆分、合并、转换等",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "PDF拆分合并",
+    "PDF转图片",
+    "PDF加密解密",
+    "PDF提取文字",
+    "批量处理"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}

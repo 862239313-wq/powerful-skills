@@ -1,0 +1,22 @@
+{
+  "name": "ai-code-assistant",
+  "version": "2.0.0",
+  "description": "基于Mistral AI的智能编程助手，支持代码生成、优化和解释",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "自然语言生成代码",
+    "代码优化建议",
+    "Bug分析和修复",
+    "代码解释",
+    "多语言支持"
+  ],
+  "author": "AI + OpenClaw",
+  "license": "MIT",
+  "dependencies": {}
+}
